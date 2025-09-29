@@ -13,7 +13,7 @@ export default function Navbar() {
                         <Link href="/daftar-berita">Daftar Berita</Link>
                     </li>
                     <li className="hover:underline font-normal">
-                        <a href="#skills">Tentang Kami</a>
+                        <Link href="/tentang-kami">Tentang Kami</Link>
                     </li>
                 </ul>
             </div>
