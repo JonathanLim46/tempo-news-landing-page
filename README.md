@@ -4,9 +4,9 @@ dibangun dengan Next.js (App Router) + Tailwind CSS, memuat daftar berita terkin
 
 ## Fitur
 1. Pagination dan Search Berita
-   Menyediakan daftar berita dari Tempo terbaru dengan navigasi menuju halaman berita sumber serta dilengkapi dengan fitur pencarian berdasarkan judul berita.
+   * Menyediakan daftar berita dari Tempo terbaru dengan navigasi menuju halaman berita sumber serta dilengkapi dengan fitur pencarian berdasarkan judul berita.
 3. Contact Service by Email
-   Formulir kontak yang terintegrasi dengan EmailJS yang memungkinkan pengguna mengirim pesan dari website ke email.
+   * Formulir kontak yang terintegrasi dengan EmailJS yang memungkinkan pengguna mengirim pesan dari website ke email.
 
 ## Stack
 1. Next.js (App Router)
@@ -15,8 +15,8 @@ dibangun dengan Next.js (App Router) + Tailwind CSS, memuat daftar berita terkin
 4. react-toastify
 5. shadcn ui
 6. Berita Indo API - Tempo
-   Sumber: https://berita-indo-api.vercel.app/v1/tempo-news/
-   Repo: https://github.com/satyawikananda/berita-indo-api
+   * Sumber: https://berita-indo-api.vercel.app/v1/tempo-news/
+   * Repo: https://github.com/satyawikananda/berita-indo-api
 
 ## Running
 
