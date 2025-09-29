@@ -2,11 +2,14 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import Image from "next/image";
 import ContactForm from "@/components/ContactForm";
+import { ToastContainer } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 
 export default function TentangKamiPage() {
     return (
         <div>
             <Navbar />
+            <ToastContainer />
             <section className="pt-40 min-h-[100dvh] snap-start max-w-7xl mx-auto">
                 <h2 className="text-center font-bold text-6xl">Tentang Kami</h2>
                 <div className="mt-12 flex flex-col">
