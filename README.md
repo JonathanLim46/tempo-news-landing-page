@@ -8,7 +8,7 @@ dibangun dengan Next.js (App Router) + Tailwind CSS, memuat daftar berita terkin
 3. Contact Service by Email
    * Formulir kontak yang terintegrasi dengan EmailJS yang memungkinkan pengguna mengirim pesan dari website ke email.
 
-## Stack
+## Tech Stack
 1. Next.js (App Router)
 2. Tailwind CSS
 3. Emailjs
@@ -17,6 +17,14 @@ dibangun dengan Next.js (App Router) + Tailwind CSS, memuat daftar berita terkin
 6. Berita Indo API - Tempo
    * Sumber: https://berita-indo-api.vercel.app/v1/tempo-news/
    * Repo: https://github.com/satyawikananda/berita-indo-api
+  
+# Installation 
+
+## Clone Repository
+
+```bash
+git clone https://github.com/JonathanLim46/tempo-news-landing-page.git
+```
 
 ## Running
 
